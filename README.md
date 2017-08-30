@@ -1,6 +1,6 @@
 # CS510 CW 1
 
-**Author(s):** _\<your name(s)\>_
+**Author(s): Chelsea Parlett-Pelleriti, Chris Watkins
 
 ## Specification
 
